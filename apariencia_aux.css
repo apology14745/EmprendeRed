@@ -1,0 +1,52 @@
+.formulario-reporte {
+    margin-top: 10px;
+    background: #fff9f9;
+    border: 1px solid #f5c6cb;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.formulario-reporte textarea {
+    width: 100%;
+    padding: 10px;
+    resize: vertical;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
+
+.formulario-reporte input[type="file"] {
+    margin-bottom: 10px;
+}
+
+.formulario-reporte button {
+    background-color: #3498db;
+    color: white;
+    padding: 8px 14px;
+    border: none;
+    border-radius: 5px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.formulario-reporte button:hover {
+    background-color: #2980b9;
+}
+
+
+.reporte-btn {
+    background-color: #e74c3c;
+    color: white;
+    padding: 8px 14px;
+    border: none;
+    border-radius: 5px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 6px;
+}
+
+.reporte-btn:hover {
+    background-color: #c0392b;
+}
